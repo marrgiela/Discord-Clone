@@ -1,9 +1,7 @@
-# discord-ui-clone
-Discord UI Clone in HTML
+# Discord Clone
+Discord Clone in HTML
 
-> Help me to improve this!!! 😊
+# Screenshot and Live Demo
+**[Live Demo](https://marrgiela.github.io/Discord-Clone)**
 
-# Preview
-**[https://snowflake107.github.io/discord-ui-clone](https://snowflake107.github.io/discord-ui-clone)**
-
-![img](https://i.imgur.com/1wB32B0.png)
+![img](https://media.discordapp.net/attachments/1003014302137073718/1013937793405304953/unknown.png?width=1403&height=683)
